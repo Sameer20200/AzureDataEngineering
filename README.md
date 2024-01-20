@@ -1,2 +1,2 @@
 # AzureDataEngineering
-Creating the projects to develop real world solutions
+Creating the project to develop real world solutions
